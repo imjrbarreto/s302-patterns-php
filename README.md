@@ -12,7 +12,7 @@ Exercises focused on the Singleton pattern and dependency injection. Through the
 1. Clone the repository:
 
 ```bash
-git clone <[text](https://github.com/imjrbarreto/s302-patterns-php)>
+git clone (https://github.com/imjrbarreto/s302-patterns-php)
 ```
 
 2. Navigate to the project folder:
